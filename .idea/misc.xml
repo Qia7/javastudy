@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../大三下半学期课设/商城系统-课程设计/common/pom.xml" />
+        <option value="$PROJECT_DIR$/../大三下半学期课设/商城系统-课程设计/common-module/pom.xml" />
+        <option value="$PROJECT_DIR$/../大三下半学期课设/商城系统-课程设计/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../大三下半学期课设/商城系统-课程设计/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../大三下半学期课设/商城系统-课程设计/goods-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../大三下半学期课设/商城系统-课程设计/goods-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../大三下半学期课设/商城系统-课程设计/user-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../大三下半学期课设/商城系统-课程设计/user-provider/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
